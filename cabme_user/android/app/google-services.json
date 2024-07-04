@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578371668681",
+    "project_id": "chamaai-b93fb",
+    "storage_bucket": "chamaai-b93fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578371668681:android:1c57abd9fec4c47a615b18",
+        "android_client_info": {
+          "package_name": "com.chamaai.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjpVpGelk3DcqWINlo1FAkQbgKCfsbKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
